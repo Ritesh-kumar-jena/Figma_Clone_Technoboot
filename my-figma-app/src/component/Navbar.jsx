@@ -16,8 +16,8 @@ function Navbar(){
         <Link className="link" to='/contact'>Contact Us</Link>
         <Link className="link" to='/enroll'>Enroll Now</Link>
       </div>
-      <div className="button">
-        <button>Enroll Now</button>
+      <div>
+        <button className="button">Enroll Now</button>
       </div>
     </nav>
        
